@@ -1,7 +1,8 @@
 Soil Farming Agent 🌱
 A web application to connect soil types with suitable crops and seed distributors.
 
-Project Banner ![Screenshot_3-6-2025_95643_127 0 0 1](https://github.com/user-attachments/assets/17d68f2f-8102-4f8b-bfe0-c8dfb6a4ec93)
+Project Banner ![Screenshot_3-6-2025_95643_127 0 0 1](https://github.com/user-attachments/assets/bb9787cb-ec11-4440-b76a-31a1980295a4)
+
 
 
 📌 Table of Contents
