@@ -1,0 +1,86 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+.container {
+  max-width: 1200px;
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  border: none;
+}
+
+.card-header {
+  background-color: #28a745;
+  color: white;
+  border-radius: 10px 10px 0 0 !important;
+  padding: 15px 20px;
+}
+
+.btn-primary {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-primary:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.soil-item,
+.distributor-item {
+  padding: 15px;
+  margin-bottom: 15px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.soil-item h3,
+.distributor-item h3 {
+  color: #28a745;
+  margin-bottom: 10px;
+}
+
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#search-results {
+  margin-top: 20px;
+}
+
+.modal-content {
+  border-radius: 10px;
+}
+
+.alert {
+  border-radius: 8px;
+}
+
+.list-group-item {
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+#all-soils-list,
+#all-distributors-list {
+  gap: 20px;
+}
+
+.soil-item,
+.distributor-item {
+  flex: 1 1 300px;
+}
+
+@media (max-width: 768px) {
+  .soil-item,
+  .distributor-item {
+    flex: 1 1 100%;
+  }
+}
